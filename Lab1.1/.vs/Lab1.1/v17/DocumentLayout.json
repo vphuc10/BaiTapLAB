@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Back-end\\BaiTapLab\\Lab1.1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C8316455-3808-4742-9AB3-93A8C0438EF6}|BaiTap10\\BaiTap10.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8316455-3808-4742-9AB3-93A8C0438EF6}|BaiTap10\\BaiTap10.csproj|solutionrelative:baitap10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D8B97F-BD63-4369-A670-22CB5A28D55F}|BaiTap9\\BaiTap9.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D8B97F-BD63-4369-A670-22CB5A28D55F}|BaiTap9\\BaiTap9.csproj|solutionrelative:baitap9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7940A57A-7568-41CF-9228-CA73AFE600D5}|BaiTap6\\BaiTap6.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7940A57A-7568-41CF-9228-CA73AFE600D5}|BaiTap6\\BaiTap6.csproj|solutionrelative:baitap6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F3B29356-CCBA-4157-B8C2-C02BFB432361}|BaiTap7\\BaiTap7.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3B29356-CCBA-4157-B8C2-C02BFB432361}|BaiTap7\\BaiTap7.csproj|solutionrelative:baitap7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C3E1C37-166B-4E64-91A1-E90ABE2C6722}|BaiTap5\\BaiTap5.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C3E1C37-166B-4E64-91A1-E90ABE2C6722}|BaiTap5\\BaiTap5.csproj|solutionrelative:baitap5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A3A59EB-D931-4B2D-9E52-1C5C55FB9E47}|BaiTap4\\BaiTap4.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A3A59EB-D931-4B2D-9E52-1C5C55FB9E47}|BaiTap4\\BaiTap4.csproj|solutionrelative:baitap4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{700C1263-E8C4-4ACA-BEB8-54AB02157B6C}|BaiTap3\\BaiTap3.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{700C1263-E8C4-4ACA-BEB8-54AB02157B6C}|BaiTap3\\BaiTap3.csproj|solutionrelative:baitap3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10F2C6FB-89A0-4440-857F-F52DEB514F12}|BaiTap2\\BaiTap2.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10F2C6FB-89A0-4440-857F-F52DEB514F12}|BaiTap2\\BaiTap2.csproj|solutionrelative:baitap2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03C5A34F-F9CC-47F9-A536-2F2787DAF354}|BaiTap1\\BaiTap1.csproj|d:\\back-end\\baitaplab\\lab1.1\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03C5A34F-F9CC-47F9-A536-2F2787DAF354}|BaiTap1\\BaiTap1.csproj|solutionrelative:baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap10\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap10\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap10\\Program.cs",
+              "RelativeToolTip": "BaiTap10\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:46:12.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap9\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap9\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap9\\Program.cs",
+              "RelativeToolTip": "BaiTap9\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:43:33.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap7\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap7\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap7\\Program.cs",
+              "RelativeToolTip": "BaiTap7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:35:26.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap6\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap6\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap6\\Program.cs",
+              "RelativeToolTip": "BaiTap6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:33:31.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap5\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap5\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap5\\Program.cs",
+              "RelativeToolTip": "BaiTap5\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAzwBwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:31:58.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap4\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap4\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap4\\Program.cs",
+              "RelativeToolTip": "BaiTap4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:30:22.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap3\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap3\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap3\\Program.cs",
+              "RelativeToolTip": "BaiTap3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:27:56.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap2\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap2\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap2\\Program.cs",
+              "RelativeToolTip": "BaiTap2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:12:29.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap1\\Program.cs",
+              "RelativeDocumentMoniker": "BaiTap1\\Program.cs",
+              "ToolTip": "D:\\Back-end\\BaiTapLab\\Lab1.1\\BaiTap1\\Program.cs",
+              "RelativeToolTip": "BaiTap1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T07:05:23.436Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

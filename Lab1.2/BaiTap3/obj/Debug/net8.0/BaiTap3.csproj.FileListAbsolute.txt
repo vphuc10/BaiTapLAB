@@ -1,0 +1,14 @@
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\bin\Debug\net8.0\BaiTap3.exe
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\bin\Debug\net8.0\BaiTap3.deps.json
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\bin\Debug\net8.0\BaiTap3.runtimeconfig.json
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\bin\Debug\net8.0\BaiTap3.dll
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\bin\Debug\net8.0\BaiTap3.pdb
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfoInputs.cache
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.AssemblyInfo.cs
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.csproj.CoreCompileInputs.cache
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.dll
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\refint\BaiTap3.dll
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.pdb
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\BaiTap3.genruntimeconfig.cache
+D:\Back-end\BaiTapLab\Lab1.2\BaiTap3\obj\Debug\net8.0\ref\BaiTap3.dll

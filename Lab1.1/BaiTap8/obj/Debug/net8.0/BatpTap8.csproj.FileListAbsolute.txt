@@ -1,0 +1,14 @@
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\bin\Debug\net8.0\BatpTap8.exe
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\bin\Debug\net8.0\BatpTap8.deps.json
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\bin\Debug\net8.0\BatpTap8.runtimeconfig.json
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\bin\Debug\net8.0\BatpTap8.dll
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\bin\Debug\net8.0\BatpTap8.pdb
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.AssemblyInfoInputs.cache
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.AssemblyInfo.cs
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.csproj.CoreCompileInputs.cache
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.dll
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\refint\BatpTap8.dll
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.pdb
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\BatpTap8.genruntimeconfig.cache
+D:\Back-end\BaiTapLab\Lab1.1\BatpTap8\obj\Debug\net8.0\ref\BatpTap8.dll
