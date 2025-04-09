@@ -1,0 +1,5 @@
+D:\Back-end\BaiTapLab\Lab1.3\BaiTap10\obj\Debug\net8.0\BaiTap10.GeneratedMSBuildEditorConfig.editorconfig
+D:\Back-end\BaiTapLab\Lab1.3\BaiTap10\obj\Debug\net8.0\BaiTap10.AssemblyInfoInputs.cache
+D:\Back-end\BaiTapLab\Lab1.3\BaiTap10\obj\Debug\net8.0\BaiTap10.AssemblyInfo.cs
+D:\Back-end\BaiTapLab\Lab1.3\BaiTap10\obj\Debug\net8.0\BaiTap10.csproj.CoreCompileInputs.cache
+D:\Back-end\BaiTapLab\Lab1.3\BaiTap10\obj\Debug\net8.0\BaiTap10.sourcelink.json
